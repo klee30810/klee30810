@@ -29,11 +29,7 @@ CV : [CV of K.M.Lee](https://kmlee.xyz).
 
 📭 klee30810@gmail.com 
 
-📞 +82 10-4099-8742
 
-📘 Github
-
-[klee30810 - Overview](https://github.com/klee30810)
 
 <!--
 **klee30810/klee30810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
