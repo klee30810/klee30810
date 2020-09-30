@@ -6,8 +6,8 @@
 
 -  (Retrieved from Wikipedia "Leonardo Da Vinci") 😃
 
-### Hi there 👋
-CV : [CV of K.M.Lee](kmlee.xyz).
+
+CV : [CV of K.M.Lee](https://kmlee.xyz).
 
 ## 👦 Profile
 
