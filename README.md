@@ -9,7 +9,6 @@ CV : [kmlee.xyz](https://kmlee.xyz).
 
 ## 👦 Profile
 
----
 
 👶 1994년 11월 22일 출생 (양력)
 
@@ -21,7 +20,6 @@ CV : [kmlee.xyz](https://kmlee.xyz).
 
 ## 💡 Contact
 
----
 
 📭 klee30810@gmail.com 
 
