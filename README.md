@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![CV Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](kmlee.xyz)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:klee30810@gmail.com)
+
 <!--
 **klee30810/klee30810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
