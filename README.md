@@ -12,11 +12,12 @@
 
 👶 1994년 11월 22일 출생 (양력)
 
-🏫 부일외국어고등학교 (2010.03. ~ 2011.02.)
+🏫 Graduated Mapleleaf International School (2011.02. ~ 2013.08.)
 
-🏫 Mapleleaf International School 졸업 (2011.02. ~ 2013.08.)
+👨‍🎓 Graduated Mechanical & Control Engineering Dept. of Handong Global Univerisity (2014.02 ~ 2020.08.)
 
-👨‍🎓 한동대학교 졸업 (2014.02 ~ 2020.08.)
+🔭 Assistant Research at Cylindrical Cell New Product Introduction Team, LG Energy Solution Ltd.
+
 
 ## 💡 Contact
 
