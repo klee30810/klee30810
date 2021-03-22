@@ -10,7 +10,6 @@
 ## 👦 Profile
 
 
-👶 1994년 11월 22일 출생 (양력)
 
 🏫 Graduated Mapleleaf International School (2011.02. ~ 2013.08.)
 
