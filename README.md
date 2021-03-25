@@ -9,13 +9,14 @@
 
 ## 👦 Profile
 
-
-
-🏫 Graduated Mapleleaf International School (2011.02. ~ 2013.08.)
+🔭 Assistant Research at Cylindrical Cell New Product Introduction Team, LG Energy Solution Ltd.
 
 👨‍🎓 Graduated Mechanical & Control Engineering Dept. of Handong Global Univerisity (2014.02 ~ 2020.08.)
 
-🔭 Assistant Research at Cylindrical Cell New Product Introduction Team, LG Energy Solution Ltd.
+🏫 Graduated Mapleleaf International School (2011.02. ~ 2013.08.)
+
+
+
 
 
 ## 💡 Contact
