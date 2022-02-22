@@ -9,7 +9,7 @@
 
 ## 👦 Profile
 
-🔭 Assistant Research at Cylindrical Cell New Product Introduction Team, LG Energy Solution Ltd.
+🔭 Associate Research at Cylindrical Cell New Product Introduction Team, LG Energy Solution Ltd.
 
 👨‍🎓 Graduated Mechanical & Control Engineering Dept. of Handong Global Univerisity (2014.02 ~ 2020.08.)
 
