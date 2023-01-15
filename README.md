@@ -5,7 +5,7 @@
 😀 Leonardo Da Vinci's studies in science and engineering are sometimes considered as impressive and innovative as his artistic work. These studies were **recorded in 13,000 pages of notes and drawings**, which fuse art and natural philosophy (the forerunner of modern science). They were **made and maintained daily throughout Leonardo's life and travels, as he made continual observations of the world around him.**  -  (Retrieved from Wikipedia "Leonardo Da Vinci") 😃
 
 
-### 🔭 CV : [kmlee.xyz](https://kmlee.xyz).
+### 🔭 CV : [kmlee.xyz]([https://kmlee.xyz](https://www.notion.so/klee30810/Curriculum-Vitae-77757306b1ad48c9bcf099c9cf80d858))
 
 ## 👦 Profile
 
