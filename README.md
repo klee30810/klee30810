@@ -9,7 +9,7 @@
 
 ## 👦 Profile
 
-🔭 Associate Research at Cylindrical New Form Factor Development Team 2, LG Energy Solution Ltd. (2024.07 ~ )
+🔭 Associate Research at Cylindrical New Form Factor Development Team 1, LG Energy Solution Ltd. (2024.07 ~ )
 
 🔭 Associate Research at Cylindrical Cell New Product Introduction Team, LG Energy Solution Ltd. (2021.02 ~ 2024.07)
 
